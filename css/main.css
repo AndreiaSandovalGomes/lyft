@@ -14,7 +14,7 @@ body{
   background-size: cover;
   background-position: bottom;
   justify-content: space-between;
-  background-image: url("css/main.css/hero.gif");
+  /* background-image: url("css/main.css/hero.gif"); */
   object-position: left;
 
   }
